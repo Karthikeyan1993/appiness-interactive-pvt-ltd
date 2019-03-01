@@ -1,0 +1,11 @@
+.container-center.lg {
+    margin: 0% auto 0;
+}
+
+.message-block{
+    color: #ee6b64;
+}
+
+.form-group{
+  min-height: 90px;
+}
